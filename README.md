@@ -13,6 +13,7 @@ Relevant coursework: Software 1 / OOP in Java (95), Software Project in C (97), 
 | [ClinPass](https://github.com/inbar-lubelski/clinpass) | AI clinical-teaching platform, Outstanding Pitch Award at TAU Med Hackathon 2026. Live demo, film, docs | React, TypeScript, Cloudflare Pages Functions + KV, HeyGen LiveAvatar, Web Speech API |
 | [AVL-Tree](https://github.com/inbar-lubelski/AVL-Tree) | Self-balancing BST with finger search, split and join, all in O(log n) | Python |
 | [Fibonacci-Heap](https://github.com/inbar-lubelski/Fibonacci-Heap) | Priority queue with configurable lazy modes (binomial, lazy binomial, Fibonacci) and O(1) amortized decrease-key | Java |
+| [SymNMF-Clustering](https://github.com/inbar-lubelski/SymNMF-Clustering) | Symmetric NMF clustering with a C core exposed to Python through a custom C extension, benchmarked against K-means | C, Python C API, NumPy, scikit-learn |
 | [NeetCode submissions](https://github.com/inbar-lubelski/neetcode-submissions) | My solutions to algorithm and data-structure problems from NeetCode.io | Python |
 
 ## Skills
